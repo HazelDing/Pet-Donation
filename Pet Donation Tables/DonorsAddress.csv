@@ -1,0 +1,78 @@
+﻿AddressID,Unit_num,Street_num,Street_name,Street_type,Street_direction,Postal_code,City,Province
+1,115,2501,Littlefiled,Crescent,N,M3C 0E8,Oakville,Ontario
+2,102,2148,Arbourview,Drive,S,M3C 0E8,Oakville,Ontario
+3,111,2060,Westmount,Drive,W,M3C 0E8,Oakville,Ontario
+4,304,1480,Bishops Gate,Road,S,M3C 2R3,Oakville,Ontario
+5,122,2305,Kingfisher,Court,W,M3C 2R3,Oakville,Ontario
+6,1597,2363,Copperwood,Drive,E,M3C 2R3,Oakville,Ontario
+7,330,2434,Glenhampton,Road,W,M3C 2R3,Oakville,Ontario
+8,771,2028,Shady Glen,Road,E,L4B CE6,Oakville,Ontario
+9,557,527,Taplow,Crescent,N,L4B CE6,Oakville,Ontario
+10,331,362,Small,Crescent,E,K4C 9K7,Oakville,Ontario
+11,1014,9870,West Ham,Road,W,R2D 4J5,Oakville,Ontario
+12,25,1267,Dorval ,Drive,S,R2D 4J5,Oakville,Ontario
+13,7609,1267,Charles Cornwall,Road,N,R2D 4J5,Oakville,Ontario
+14,10,2093,Shorncliffe,Boulevard,E,P7E 3H2,Oakville,Ontario
+15,888,1108,Vale Place,Drive,S,P7E 3H2,Oakville,Ontario
+16,1019,120,Hay Ave,Ave,W,M8Z1G4,Etobicoke,Ontario
+17,332,359,Melrose St,St,N,M8Z1G9,Etobicoke,Ontario
+18,467,113,Hay Ave,Ave,W,M8Z1G3,Etobicoke,Ontario
+19,554,47,St-George St,St,N,M8Z3Y6,Etobicoke,Ontario
+20,1236,164,Simpson Ave,Ave,S,M8Z1E3,Etobicoke,Ontario
+21,47,32,O'Donnell Ave,Ave,E,M8Z3X9,Etobicoke,Ontario
+22,102,82,St-George St,St,N,M8Z3Y7,Etobicoke,Ontario
+23,55,76,St-George St,St,E,M8Z3Y7,Etobicoke,Ontario
+24,330,12,Willowbrook Rd,Rd,W,M8Z4A8,Etobicoke,Ontario
+25,20,28,Alden Ave,Ave,W,M8Z1C5,Etobicoke,Ontario
+26,1568,180,Simpson Ave,Ave,N,M8Z1E3,Etobicoke,Ontario
+27,22,171,Hay Ave,Ave,N,M8Z1G3,Etobicoke,Ontario
+28,2038,118,Newcastle St,St,S,M8Z1C8,Etobicoke,Ontario
+29,46,25,Harold St,St,E,M8Z3R4,Etobicoke,Ontario
+30,334,280,Melrose St,St,E,M8Z1G6,Etobicoke,Ontario
+31,101,55,Maple Leaf,Drive,N,M5A 1G9,Toronto,Ontario
+32,202,789,Lakeshore,Boulevard,S,M8V 3L5,Toronto,Ontario
+33,303,213,Willowbank,Boulevard,E,M3B 2Z8,Toronto,Ontario
+34,404,441,Royal York,Road,W,M8Y 2R2,Toronto,Ontario
+35,505,632,Sunnylea,Avenue,N,M8Y 3M8,Toronto,Ontario
+36,606,87,Humbercrest,Boulevard,S,M6S 4L4,Toronto,Ontario
+37,707,321,Park Lawn,Road,E,M8Y 3R2,Toronto,Ontario
+38,808,555,Islington,Avenue,W,M9A 3S7,Toronto,Ontario
+39,909,998,Queensway,East,N,M8Z 1R5,Toronto,Ontario
+40,1010,77,Mimico,Avenue,S,M8V 1R1,Toronto,Ontario
+41,1111,456,Lake Shore,West,E,M5V 2V4,Toronto,Ontario
+42,1212,234,Prince Edward,Drive,W,M9C 3V4,Toronto,Ontario
+43,1313,789,Bloor,Street,N,M6G 1L1,Toronto,Ontario
+44,1414,1323,Dundas,Street,S,M8X 1Y2,Toronto,Ontario
+45,1515,654,Kipling,Avenue,E,M8Z 5G3,Toronto,Ontario
+46,1616,876,The Queensway,The Queensway,W,M8Z 1N3,Mississauga,Ontario
+47,1717,345,Burnhamthorpe,Road,N,M9B 0A2,Mississauga,Ontario
+48,88,1276,Belleperche,Place,N,M3A 1A1,Mississauga,Ontario
+49,3217,98,Telfer,Gate,N,M4B 2B2,Mississauga,Ontario
+50,2045,32,Deer,Grove,S,L3C 3C3,Mississauga,Ontario
+51,7702,56,Thistlewood,Terrace,E,K4D 4D4,Mississauga,Ontario
+52,421,89,Graystone,Street,W,H5E 5E5,Mississauga,Ontario
+53,203,1227,Willson,Road,N,R6F 6F6,Mississauga,Ontario
+54,1697,40,Wildberry,Lane,E,T7G 7G7,Mississauga,Ontario
+55,2294,1215,Heatherleigh,Avenue,N,Y8H 8H8,Mississauga,Ontario
+56,862,2314,Maplewood,Drive,W,U9I 9I9,Mississauga,Ontario
+57,745,1367,Churchill,Road,W,V0J 0J0,Mississauga,Ontario
+58,1423,76,Forest Hill,Drive,N,W1K 1K1,Mississauga,Ontario
+59,2198,98,Stonebridge,Court,S,X2L 2L2,Mississauga,Ontario
+60,168,1273,Crescent,Road,N,Y3M 3M3,Mississauga,Ontario
+61,320,879,Birchwood,Lane,S,Z4N 4N4,Mississauga,Ontario
+62,56,98,Briarcrest,Place,N,A5O 5O5,Mississauga,Ontario
+63,987,1234,Sunset,Blvd,E,M1A 2A2,Mississauga,Ontario
+64,745,654,Ocean,Avenue,W,M2B 3B3,Mississauga,Ontario
+65,321,987,Hilltop,Lane,N,M3C 4C4,Mississauga,Ontario
+66,456,321,River,Road,S,M4D 5D5,Mississauga,Ontario
+67,890,456,Lakeview,Drive,E,M5E 600,Mississauga,Ontario
+68,123,789,Meadow,Street,W,M6F 7F7,Mississauga,Ontario
+69,567,987,Forest,Crescent,N,M7G 8G8,Mississauga,Ontario
+70,876,654,Maple,Court,S,M8H 9H9,Mississauga,Ontario
+71,234,321,Pine,Avenue,E,M9I 1I1,Brampton,Ontario
+72,987,987,Birch,Lane,W,M1J 2J2,Brampton,Ontario
+73,745,123,Willow,Way,N,M2K 3K3,Brampton,Ontario
+74,321,456,Cedar,Place,S,M3L 4L4,Brampton,Ontario
+75,456,890,Elm,Drive,E,M4M 5M5,Brampton,Ontario
+76,890,123,Oak,Street,W,M5N 6N6,Brampton,Ontario
+77,123,567,Walnut,Avenue,N,M6O 7O7,Brampton,Ontario
